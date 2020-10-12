@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="ajout des dossiers">
+    <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="test de visiteur">
+      <change afterPath="$PROJECT_DIR$/public/lib/jquery/jquery-3.5.1.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/gsb.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/gsb.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Templates/template.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Templates/template.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -290,11 +294,12 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="php artisan key:generate" />
-      <command value="php artisan serve" />
       <command value="artisan make:model Visiteur" />
       <command value="php artisan make:model Visiteur" />
       <command value="artisan make:controller VisiteurControlleur" />
       <command value="php artisan make:controller VisiteurController" />
+      <command value="php artisan serve stop" />
+      <command value="php artisan serve" />
     </option>
   </component>
   <component name="RunManager">
@@ -345,6 +350,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -363,22 +369,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602492702452" />
-    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1602492230972">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1602512309213">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230972" />
-    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1602492230972">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602512309213" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1602512309213">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230972" />
-    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1602492230971">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602512309213" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1602512309213">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230971" />
-    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1602492230972">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602512309213" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1602512309213">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230972" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602512309213" />
     <state x="314" y="447" key="NewPhpFileDialog" timestamp="1602491851047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -399,10 +405,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="271" y="425" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602505116102" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1602493614784">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1602512309059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602493614784" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602512309059" />
     <state x="212" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602493590521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
