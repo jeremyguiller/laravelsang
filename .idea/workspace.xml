@@ -19,10 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="test de visiteur">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="comfirmation de visiteurs">
+      <change afterPath="$PROJECT_DIR$/public/css/gsb.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/models/Visiteur.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/models/Visiteur.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +33,17 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="suite1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -266,6 +274,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Models/models" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -303,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602493738697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="comfirmation de visiteurs">
+      <created>1602494122364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602494122364</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,9 +336,14 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test de visiteur" />
-    <option name="LAST_COMMIT_MESSAGE" value="test de visiteur" />
+    <MESSAGE value="comfirmation de visiteurs" />
+    <option name="LAST_COMMIT_MESSAGE" value="comfirmation de visiteurs" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1602494232395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1602494232395" />
     <state x="260" y="265" key="FileChooserDialogImpl" timestamp="1602492702452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -347,14 +368,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="314" y="447" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602491851047" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1602494009450">
+    <state x="501" y="163" key="SettingsEditor" timestamp="1602496006309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602494009450" />
-    <state x="141" y="256" key="Vcs.Push.Dialog.v2" timestamp="1602493744712">
+    <state x="501" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602496006309" />
+    <state x="141" y="256" key="Vcs.Push.Dialog.v2" timestamp="1602494126349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="141" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602493744712" />
+    <state x="141" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602494126349" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602485660512">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
