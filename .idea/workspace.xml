@@ -19,30 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="debut de bootstrap">
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/bootstrap/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lib/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="ajout des dossiers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Templates/template.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Templates/template.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -347,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602503742528</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ajout des dossiers">
+      <created>1602506934490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602506934490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -366,7 +351,8 @@
     <MESSAGE value="test de visiteur" />
     <MESSAGE value="comfirmation de visiteurs" />
     <MESSAGE value="debut de bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="debut de bootstrap" />
+    <MESSAGE value="ajout des dossiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout des dossiers" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1602494232395">
