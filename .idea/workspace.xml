@@ -19,27 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e8e989-29d5-458b-b0b6-5794662dc9f1" name="Default Changelist" comment="">
+    <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/VisiteurController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/models/Visiteur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/Templates/template.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vueVisiteurs.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/vuePraticiens.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vuePraticiens.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <phar pharPath="C:\ProgramData\ComposerSetup\bin\composer.phar" interpreterId="e6b302de-19dd-4d82-974c-5fca6c597046" />
-    </execution>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="composer.json" />
-      </list>
-    </option>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -269,31 +265,32 @@
       <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1ik6naj82PmzklynR4oTd2UZCDo" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Models/models" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jeremy\PhpstormProjects\laravelsang" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\laravel\app\Models\models" />
     </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="artisan key:generate" />
-      <command value="artisan help" />
-      <command value="artisan serve" />
-      <command value="php artisan serve" />
       <command value="php artisan key:generate" />
+      <command value="php artisan serve" />
+      <command value="artisan make:model Visiteur" />
+      <command value="php artisan make:model Visiteur" />
+      <command value="artisan make:controller VisiteurControlleur" />
+      <command value="php artisan make:controller VisiteurController" />
     </option>
   </component>
   <component name="RunManager">
@@ -302,23 +299,8 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="57e8e989-29d5-458b-b0b6-5794662dc9f1" name="Default Changelist" comment="" />
-      <created>1602439411103</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1602439411103</updated>
-      <workItem from="1602439412226" duration="557000" />
-      <workItem from="1602440134656" duration="1161000" />
-      <workItem from="1602441337182" duration="274000" />
-      <workItem from="1602441624458" duration="1284000" />
-    </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -330,60 +312,42 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1602441504129">
+    <state x="260" y="265" key="FileChooserDialogImpl" timestamp="1602492702452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441504129" />
-    <state x="770" y="399" key="#Composer" timestamp="1602439559504">
+    <state x="260" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602492702452" />
+    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1602492230972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="770" y="399" key="#Composer/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602439559504" />
-    <state x="808" y="240" key="#Docker" timestamp="1602439863046">
+    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230972" />
+    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1602492230972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="808" y="240" key="#Docker/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602439863046" />
-    <state x="613" y="147" key="#SSH_Configurations" timestamp="1602439943562">
+    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230972" />
+    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1602492230971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="613" y="147" key="#SSH_Configurations/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602439943562" />
-    <state x="764" y="399" key="ComposerInitDialogKey" timestamp="1602439906807">
+    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230971" />
+    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1602492230972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="764" y="399" key="ComposerInitDialogKey/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602439906807" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1602441587526">
+    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230972" />
+    <state x="314" y="447" key="NewPhpFileDialog" timestamp="1602491851047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441587526" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1602441803136">
+    <state x="314" y="447" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602491851047" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602485660512">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441803136" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1602441803136">
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602485660512" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1602488433104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441803136" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1602441803136">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441803136" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1602441803136">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441803136" />
-    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1602441186228">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441186228" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1602441595577">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441595577" />
-    <state x="801" y="207" width="672" height="677" key="run.anything.popup" timestamp="1602441737464">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="801" y="207" width="672" height="677" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602441737464" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602488433104" />
   </component>
 </project>

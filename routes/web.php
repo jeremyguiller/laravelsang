@@ -21,3 +21,4 @@ Route::get('/',function (){
 
 Route::get('medicaments','App\Http\Controllers\MedicamentController@medicaments');
 Route::get('praticiens','App\Http\Controllers\PraticienController@praticiens');
+Route::get('visiteurs','App\Http\Controllers\VisiteurController@visiteurs');
