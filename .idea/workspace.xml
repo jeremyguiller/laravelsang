@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/VisiteurController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/models/Visiteur.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Templates/template.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/vueVisiteurs.blade.php" afterDir="false" />
+    <list default="true" id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="test de visiteur">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vueMedicaments.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/vuePraticiens.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vuePraticiens.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/models/Visiteur.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/models/Visiteur.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
     <include_path>
       <path value="$PROJECT_DIR$/../LARAVELFINAL/vendor/vlucas/phpdotenv" />
       <path value="$PROJECT_DIR$/../LARAVELFINAL/vendor/voku/portable-ascii" />
@@ -277,6 +272,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -300,6 +296,14 @@
     </configuration>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="test de visiteur">
+      <created>1602493738697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602493738697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,6 +319,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test de visiteur" />
+    <option name="LAST_COMMIT_MESSAGE" value="test de visiteur" />
   </component>
   <component name="WindowStateProjectService">
     <state x="260" y="265" key="FileChooserDialogImpl" timestamp="1602492702452">
@@ -341,13 +347,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="314" y="447" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602491851047" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602494009450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602494009450" />
+    <state x="141" y="256" key="Vcs.Push.Dialog.v2" timestamp="1602493744712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="141" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602493744712" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602485660512">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602485660512" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1602488433104">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1602493614784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602488433104" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602493614784" />
+    <state x="212" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602493590521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="212" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602493590521" />
   </component>
 </project>
