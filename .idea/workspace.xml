@@ -29,7 +29,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -260,33 +261,45 @@
       <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
     </include_path>
   </component>
+  <component name="ProjectId" id="1im3b6COzJAbuPY1FfXGtPLRh7j" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Models/models" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hanon\OneDrive\Documents\BTS\Laravel\laravelsang" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="Z:\laravel\app\Models\models" />
     </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="php artisan key:generate" />
-      <command value="php artisan serve" />
       <command value="artisan make:model Visiteur" />
       <command value="php artisan make:model Visiteur" />
       <command value="artisan make:controller VisiteurControlleur" />
       <command value="php artisan make:controller VisiteurController" />
+      <command value="php artisan key:generate" />
+      <command value="php artisan serve" />
     </option>
   </component>
   <component name="RunManager">
@@ -295,6 +308,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="test de visiteur">
       <created>1602493738697</created>
@@ -303,8 +317,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602493738697</updated>
     </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c965ed37-0b73-4aad-849b-8cb269f6174d" name="Default Changelist" comment="test de visiteur" />
+      <created>1602499009859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602499009859</updated>
+      <workItem from="1602499010991" duration="11000" />
+      <workItem from="1602499022918" duration="194000" />
+    </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -316,6 +342,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -323,25 +350,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="test de visiteur" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="265" key="FileChooserDialogImpl" timestamp="1602492702452">
+    <state x="260" y="265" key="FileChooserDialogImpl" timestamp="1602499020401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="260" y="265" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1602499020401" />
     <state x="260" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602492702452" />
-    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1602492230972">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1602499172733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1602499172733" />
     <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230972" />
-    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1602492230972">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1602499172733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1602499172733" />
     <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230972" />
-    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1602492230971">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1602499172733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1602499172733" />
     <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230971" />
-    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1602492230972">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1602499172733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1602499172733" />
     <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602492230972" />
     <state x="314" y="447" key="NewPhpFileDialog" timestamp="1602491851047">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -359,9 +391,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602485660512" />
-    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1602493614784">
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1602499172555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040/-1920.0.1280.680@0.0.1920.1040" timestamp="1602499172555" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602493614784" />
     <state x="212" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1602493590521">
       <screen x="0" y="0" width="1920" height="1040" />
